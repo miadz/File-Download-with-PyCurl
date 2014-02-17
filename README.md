@@ -1,4 +1,5 @@
 File-Download-with-PyCurl
 =========================
 
-Its a example of downloading files with HTTP request. The code is written in Python and with the help of pycurl lib.
+Here I am using PyCurl for file retrieving & feedparser for RSS feed parsing.
+Operations: Parsing data is stored in a dictionary. Fetch the 'url' of particular item or items
